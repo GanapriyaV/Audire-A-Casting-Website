@@ -1,2 +1,2 @@
 # Audire-A-Casting-Website
-Developed a website for casting auditions
+This project explores the hurdles aspiring actors and theatre graduates face in forging lasting careers, revealing gaps in academic training that leave students unprepared for industry demands. It delves into audition processes, career growth, and marketing tactics, using qualitative insights to offer tangible advice: craft compelling audition packages, master performance etiquette, and utilize tools like resumes and demo reels. The goal is to equip actors with practical strategies to thrive in the competitive world of performing arts.
